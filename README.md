@@ -3,19 +3,25 @@
 December 26, 2018
 01:07:49 UTC; 20:07:49 EST
 
+## Premise
+According to an article published in 2004 by the World Health Organization (WHO) and Food and Agriculture Organization of the United Nations (FAO) "recommends a minimum of 400g of fruit and vegetables per day (excluding potatoes and other starchy tubers) for the prevention of chronic diseases such as heart disease, cancer, diabetes and obesity, as well as for the prevention and alleviation of several micronutrient deficiencies, especially in less developed countries".
+
+### Overview
 The purpose of this conceptual trial is to outline the activities and considerations to be undertaken for a successful indoor agriculture production project using readily available inputs and resources.
 
 Specifically the trial is seeking to answer the following questions:
 
-(1) what inputs and resources are necessary to create 7 lbs of produce per week per person in a given household
+(1) what inputs and resources are necessary to create 7 (400g x 7) lbs of produce per week per person in a given household
 (2) does the average person have on-hand resources to accomplish this
 (3) what resources does a secondary market city have available to grow/harvest enough produce to feed it's population
 
-### Example
+Given an example secondary market city, what amount of space is necessary to generate the necessary produce to feed the immediate population. Further, could these operations be localized to further split up the single footprint into multiple smaller footprints and move food even closer to a super micro-sourcing level (less than 1 driving mile), while simeultaneously creating jobs in those communities.
+
+### Example City
 Using the City of Pittsburgh as an example (statistics as of 2018/12/26):
 
 (a) The City of Pittsburgh has a current population of approximately 306,000
-(b) The City of Pittsburgh covers approximately 58.35 square miles
+(b) The City of Pittsburgh covers approximately 58.35 square miles (37,344 acres)
 (c) The City of Pittsburgh has a population density of 5,460/sq mi
 (d) The City of Pittsburgh metro area has a population of approximately 2,360,867
 (e) The City of Pittsburgh metro area covers approximately 5,343 square miles
@@ -41,9 +47,11 @@ Using a median 80lbs per week production per unit to produce 1.89M lbs/week woul
 
 With each container occupying a footprint of 320 sq ft/unit (40' x 8' x 9.5'), given a 6ft walking path between rows, a square acre (43,560 sq. ft. or 208' W x 208' L) of property could accomodate 26 per horizontal row and 4 per vertical row for a total of 104 LGM units per square acre.
 
-228 acres would accomodate the 23,612 LGM containers needed to produce the 1.89M lbs/week of produce required to feed the 306,000 people living in the city of Pittsburgh.
+228 acres (0.35625 sq mi) would accomodate the 23,612 LGM containers needed to produce the 1.89M lbs/week of produce required to feed the 306,000 people living in the city of Pittsburgh.
 
+With the city covering approximately 58.35 sq mi it seems possible to acquire the necessary 0.35 sq mi or 228 acres needed to produce this.
 
-According to an article published in 2004 by the World Health Organization (WHO) and Food and Agriculture Organization of the United Nations (FAO) "recommends a minimum of 400g of fruit and vegetables per day (excluding potatoes and other starchy tubers) for the prevention of chronic diseases such as heart disease, cancer, diabetes and obesity, as well as for the prevention and alleviation of several micronutrient deficiencies, especially in less developed countries".
+### Thinking Deeper
+The LGM is not an economical solution due to cost, longevity, etc, however, it serves as a great framework for understading food production from the companies benchmarking and statistics.
 
 1. [Promoting fruit and vegetable consumption around the world](https://www.who.int/dietphysicalactivity/fruit/en/) 2004 World Health Organization
