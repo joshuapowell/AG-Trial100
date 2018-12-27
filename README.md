@@ -17,6 +17,8 @@ Specifically the trial is seeking to answer the following questions:
 
 Given an example secondary market city, what amount of space is necessary to generate the necessary produce to feed the immediate population. Further, could these operations be localized to further split up the single footprint into multiple smaller footprints and move food even closer to a super micro-sourcing level (less than 1 driving mile), while simeultaneously creating jobs in those communities.
 
+The super micro-sourcing and job creation would only be a small portion of the benefits, notwithstanding the reduce emissions of food transport, the reduction in possible outbreaks and contanimation due to large scale factory farming, and the strain on resources for a specific locale (i.e., a few specific locations in the United States providing nearly all produce for the citizens of the nation).
+
 ### Example City
 Using the City of Pittsburgh as an example (statistics as of 2018/12/26):
 
