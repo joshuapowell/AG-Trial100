@@ -51,9 +51,31 @@ With each container occupying a footprint of 320 sq ft/unit (40' x 8' x 9.5'), g
 
 228 acres (0.35625 sq mi) would accomodate the 23,612 LGM containers needed to produce the 1.89M lbs/week of produce required to feed the 306,000 people living in the city of Pittsburgh.
 
+Question: How much vacant land is currently within the city limits of Pittsburgh?
+
+Given Pittsburgh's 90 neighborhoods, each neighborhood would be required to have 2.55 acres of available land. This results in each neighborhood hosting approximately 265 LGM containers each. If the units were stacked 2 high, this area could be cut down to 1.275 acres.
+
 With the city covering approximately 58.35 sq mi it seems possible to acquire the necessary 0.35 sq mi or 228 acres needed to produce this.
 
 ### Thinking Deeper
 The LGM is not an economical solution due to cost, longevity, etc, however, it serves as a great framework for understading food production from the companies benchmarking and statistics.
+
+#### LGM Cost
+23,612 LGM x $85,000 per container = $2,007,020,000
+
+That cost alone shows that the LGM could not be purchased and used. Using an alternative to the LGM, however, creating a mobile, vertical, hydroponic solution could be done for significantly lower cost given the company producing the units were doing so at cost and receiving no markup, it's possible that a unit could be created.
+
+#### LGM Energy
+The energy cost of the LGM is also of concern. 125 kWh per day is high. Operating under the assumption that a storage container cannot be insulated in the same way a warehouse structure could be, we can assume a lower energy cost. R16 is well below most standards for basic residental and commercial construction. By front loading costs by adding a higher R-value rated insulation and different structural considerations we could gain space and reduce overall energy costs.
+
+#### Job Creation
+20 per week per container would result in a required (Total Containers x 20 hours) 472,240 working hours per week or 11,806 full time individuals ($15/hour at 40 hours per week, at 472,240 human hours $7,083,600/week). 
+
+Produce at $10/lb, 1,888,922 lbs produce weekly, weekly gross revenue would be $18,889,220.
+
+Cost of Production $2/lb. ($3,777,844/wk)
+Salary cost $3.75/lb. ($7,083,457.5/wk)
+Overhead $3.25/lb. ($6,138,996.5/wk)
+Profit $1/lb. ($1,888,922/wk)
 
 1. [Promoting fruit and vegetable consumption around the world](https://www.who.int/dietphysicalactivity/fruit/en/) 2004 World Health Organization
