@@ -3,14 +3,6 @@
 ## Growing Medium
 Trial 100 uses a soil-based growing medium. 
 
-### Inputs
-
-#### Sphagnum (Peat Moss)
-This is used as a soil conditioner which increases the soil's capacity to hold water and nutrients by increasing capillary forces and cation exchange capacity.
-
-- [ ] 10 Gallons 
-
-
 ### Growing Medium Formula
 
 #### Germination Formula
