@@ -78,4 +78,9 @@ Salary cost $3.75/lb. ($7,083,457.5/wk)
 Overhead $3.25/lb. ($6,138,996.5/wk)
 Profit $1/lb. ($1,888,922/wk)
 
+## Reality
+In reality, $2B is not realistic for an investment for a single city, the production value of only 80lbs per week of produce is extremely low, and finally, the expectation for 100% usage is also unrealistic.
+
+What would a secondary market like Pittsburgh support?
+
 1. [Promoting fruit and vegetable consumption around the world](https://www.who.int/dietphysicalactivity/fruit/en/) 2004 World Health Organization
